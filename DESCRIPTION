@@ -1,0 +1,21 @@
+Package: rainy
+Type: Package
+Title: From the Cloud to Shiny
+Version: 0.1.0
+Author: Nicolas Ampuero
+Description: API wrappers and tools to facilitate interations between cloud based databases and Shiny apps
+Imports:
+    curl (>= 2.4),
+    httr (>= 1.3.1),
+    httpuv,
+    jsonlite,
+    xml2 (>= 1.1),
+    data.table,
+    readxl,
+    shiny
+Suggests:
+    testthat
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
