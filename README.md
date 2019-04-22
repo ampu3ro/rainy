@@ -56,4 +56,4 @@ runApp(shinyApp(ui=ui,server=server),launch.browser=T)
 
 If setup properly you should get something that looks like this
 
-![File](https://github.com/ampu3ro/rainy/blob/master/www/graph_file.PNG)
+![File](https://github.com/ampu3ro/rainy/blob/master/www/graph_test.PNG)
